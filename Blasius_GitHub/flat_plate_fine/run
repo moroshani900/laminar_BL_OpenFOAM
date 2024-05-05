@@ -1,0 +1,4 @@
+blockMesh
+mapFields ../flat_plate_fine –consistent 
+icoFoam
+touch flat_plate_fine.foam
